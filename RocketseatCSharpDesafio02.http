@@ -1,0 +1,6 @@
+@RocketseatCSharpDesafio02_HostAddress = http://localhost:5094
+
+GET {{RocketseatCSharpDesafio02_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
